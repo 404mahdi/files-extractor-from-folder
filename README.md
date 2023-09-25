@@ -1,9 +1,13 @@
 ## Extract files to a common folder from various folder.
 
 ### What is this for?
-- Suppose you have downloaded a mega file of fonts. They are located into different folders. 
+- Suppose you have downloaded a mega file of fonts. They are located into different folders.
+
+  
 ![Screenshot 2023-09-26 000627](https://github.com/404mahdi/files-extractor-from-folder/assets/119351159/86a522a9-e36d-4928-9f48-e168971bd7a7)
 ![Screenshot 2023-09-26 000606](https://github.com/404mahdi/files-extractor-from-folder/assets/119351159/db43e3e7-cc4e-4cd2-baaa-8dd4a3ddc660)
+
+
 If you can bring then into one folder then you can install them at once. How do you do it? Just put an * in the search box? NO! Do it this way. Copy the source code and run the code in your machine and follow the steps below.
 
 ### Steps:
